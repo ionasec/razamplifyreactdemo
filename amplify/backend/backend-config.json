@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"razamplifyreactdemo90201368": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
