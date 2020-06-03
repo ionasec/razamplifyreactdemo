@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+### Tutorial 
+https://medium.com/better-programming/build-a-react-app-with-authentication-using-aws-amplify-49db1dfdc290
+https://medium.com/better-programming/build-a-react-app-using-aws-amplify-in-simple-steps-part-2-59812ea29192
+https://medium.com/@anjanava.biswas/uploading-files-to-aws-s3-from-react-app-using-aws-amplify-b286dbad2dd7
+https://medium.com/@subalerts/create-dynamic-table-from-json-in-react-js-1a4a7b1146ef
